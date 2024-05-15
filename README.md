@@ -36,8 +36,6 @@
  <a href="https://www.linkedin.com/in/-dinesh-7a83b2241/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DINESH"/>
  </a>
-
-  </a> 
 </p>
 <br />
 
